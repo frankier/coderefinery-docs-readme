@@ -1,5 +1,7 @@
 # My README!
 
+[![good alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+
 > [!NOTE]
 > Please note that this is my README!
 
